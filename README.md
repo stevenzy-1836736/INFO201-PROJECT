@@ -2,4 +2,8 @@
 
 # This is our project!
 
-# Group member
+# Group member:
+- Evelyn
+- Steven
+- Selena
+- Benji
